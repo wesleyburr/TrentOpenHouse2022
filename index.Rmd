@@ -303,5 +303,5 @@ class: inverse, middle
 
 - Contact me: [Email](mailto:wesleyburr@trentu.ca) or [Twitter](https://twitter.com/wsburr)
 - Slides created via the R package [xaringan](https://github.com/yihui/xaringan) by Yihui Xie
-
+- Slides available at [GitHub](https://wesleyburr.github.io/TrentSeminar2021/#1)
 <br/>
