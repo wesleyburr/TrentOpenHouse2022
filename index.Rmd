@@ -1,7 +1,7 @@
 ---
 title: "Mathematics & Financial Science"
 author: 'Wesley S. Burr -- <a href="http://www.trentu.ca/math/">Trent University</a> <br> <a href="http://github.com/wesleyburr"><i class="fa fa-github fa-fw"></i>&nbsp; wsburr</a><br> <a href="mailto:wesleyburr@trentu.ca"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; wesleyburr@trentu.ca</a><br><br/>'
-date: 2022-04-01
+date: 2022-11-04
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -30,7 +30,7 @@ theme_set(theme_gray(base_size = 24))
 
 * in the Sciences, under Dean Hintelmann
 * 10 faculty in areas ranging from algebra, analysis and discrete math to
-finance, statistics, applied mathe
+finance, statistics, applied math
 * housed with Gzowski College in Enwaayang (3rd floor)
 
 ---
@@ -40,8 +40,10 @@ class: inverse
 ## Degrees
 
 * BSc in Mathematical Economics (joint MATH/ECON) or in Mathematical Physics (joint MATH/PHYS)
+<br />
 * BSc in Mathematics (single-major, dual-major honours; single-major, dual-major general; minor)
   * Specializations in Mathematical Finance or Statistics (all MATH)
+<br />  
 * BSc in Financial Science (joint MATH/ADMN/ECON)
 
 ---
